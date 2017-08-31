@@ -1,0 +1,2 @@
+debian/bin/mokacoind usr/bin
+src/mokacoind usr/lib/mokacoin

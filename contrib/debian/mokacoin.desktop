@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=mokacoin
+Comment=Mokacoin P2P Cryptocurrency
+Comment[fr]=Mokacoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mokacoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/mokacoin
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/mokacoin80.xpm
+MimeType=x-scheme-handler/mokacoin;
+Categories=Office;
