@@ -1,5 +1,0 @@
-mokacoin usr/bin
-share/pixmaps/mokacoin32.xpm usr/share/pixmaps
-share/pixmaps/mokacoin80.xpm usr/share/pixmaps
-debian/mokacoin.desktop usr/share/applications
-debian/mokacoin.protocol usr/share/kde4/services/
